@@ -1,0 +1,60 @@
+{
+  "clientes": [
+    {
+      "codigo": 1326,
+      "cnpj": "03670899000148",
+      "razaoSocial": "NORMA MARIA DA COSTA ARAUJO"
+    }
+  ],
+  "fila": [
+    {
+      "id": null,
+      "cnpj": "03670899000148",
+      "type": "NFE",
+      "status": "aguardando",
+      "createdAt": "2021-05-01"
+    },
+    {
+      "id": "157998ba-4859-4e53-82e8-550b900dfaf3",
+      "cnpj": "03670899000148",
+      "type": "NFE",
+      "status": "aguardando",
+      "createdAt": "2021-06-30 22:58:27"
+    },
+    {
+      "id": "84dc45ad-f81b-41b1-81fd-abc3da8a4ecb",
+      "cnpj": "03670899000148",
+      "type": "NFC",
+      "status": "aguardando",
+      "createdAt": "2021-06-30 22:58:39"
+    },
+    {
+      "id": "fdeb9de1-009c-491e-affa-82d1e96649bc",
+      "cnpj": "03670899000148",
+      "type": "NFE",
+      "status": "aguardando",
+      "createdAt": "2021-06-30 23:32:06"
+    },
+    {
+      "id": "ea27a9f5-870a-4026-b75d-7a7b9f8e7182",
+      "cnpj": "03670899000148",
+      "type": "NFC",
+      "status": "aguardando",
+      "createdAt": "2021-06-30 23:32:28"
+    },
+    {
+      "id": "ea4b86ca-12e9-4aaa-956f-ffb27eca3ce6",
+      "cnpj": "03670899000148",
+      "type": "NFE",
+      "status": "aguardando",
+      "createdAt": "2021-06-30 23:33:32"
+    },
+    {
+      "id": "03372d07-0eed-4d7d-9595-43795ab70667",
+      "cnpj": "03670899000148",
+      "type": "NFC",
+      "status": "aguardando",
+      "createdAt": "2021-06-30 23:33:54"
+    }
+  ]
+}

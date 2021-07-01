@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "datejs": "^1.0.0-rc3",
+    "dotenv": "^10.0.0",
+    "lowdb": "^1.0.0",
+    "puppeteer": "^10.0.0",
+    "puppeteer-extra": "^3.1.18",
+    "puppeteer-extra-plugin-recaptcha": "^3.4.0",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "generate": "node src/generate.js",
+    "g": "node src/generate.js",
+    "queue": "node src/queue.js",
+    "q": "node src/queue.js"
+  }
+}
